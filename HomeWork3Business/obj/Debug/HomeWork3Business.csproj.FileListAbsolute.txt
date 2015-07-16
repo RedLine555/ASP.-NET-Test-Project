@@ -1,0 +1,13 @@
+C:\NicksFiles\Labs\DataArt\HomeWork3\HomeWork3Business\bin\Debug\HomeWork3Business.dll
+C:\NicksFiles\Labs\DataArt\HomeWork3\HomeWork3Business\bin\Debug\HomeWork3Business.pdb
+C:\NicksFiles\Labs\DataArt\HomeWork3\HomeWork3Business\obj\Debug\HomeWork3Business.csprojResolveAssemblyReference.cache
+C:\NicksFiles\Labs\DataArt\HomeWork3\HomeWork3Business\obj\Debug\HomeWork3Business.dll
+C:\NicksFiles\Labs\DataArt\HomeWork3\HomeWork3Business\obj\Debug\HomeWork3Business.pdb
+C:\NicksFiles\Labs\DataArt\HomeWork3\HomeWork3Business\bin\Debug\HomeWork3Common.dll
+C:\NicksFiles\Labs\DataArt\HomeWork3\HomeWork3Business\bin\Debug\HomeWork3Data.dll
+C:\NicksFiles\Labs\DataArt\HomeWork3\HomeWork3Business\bin\Debug\EntityFramework.dll
+C:\NicksFiles\Labs\DataArt\HomeWork3\HomeWork3Business\bin\Debug\HomeWork3Common.pdb
+C:\NicksFiles\Labs\DataArt\HomeWork3\HomeWork3Business\bin\Debug\HomeWork3Data.pdb
+C:\NicksFiles\Labs\DataArt\HomeWork3\HomeWork3Business\bin\Debug\EntityFramework.xml
+C:\NicksFiles\Labs\DataArt\HomeWork3\HomeWork3Business\bin\Debug\NLog.dll
+C:\NicksFiles\Labs\DataArt\HomeWork3\HomeWork3Business\bin\Debug\NLog.xml

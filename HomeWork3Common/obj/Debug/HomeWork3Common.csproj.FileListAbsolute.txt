@@ -1,0 +1,7 @@
+C:\NicksFiles\Labs\DataArt\HomeWork3\HomeWork3Common\bin\Debug\HomeWork3Common.dll
+C:\NicksFiles\Labs\DataArt\HomeWork3\HomeWork3Common\bin\Debug\HomeWork3Common.pdb
+C:\NicksFiles\Labs\DataArt\HomeWork3\HomeWork3Common\obj\Debug\HomeWork3Common.csprojResolveAssemblyReference.cache
+C:\NicksFiles\Labs\DataArt\HomeWork3\HomeWork3Common\obj\Debug\HomeWork3Common.dll
+C:\NicksFiles\Labs\DataArt\HomeWork3\HomeWork3Common\obj\Debug\HomeWork3Common.pdb
+C:\NicksFiles\Labs\DataArt\HomeWork3\HomeWork3Common\bin\Debug\NLog.dll
+C:\NicksFiles\Labs\DataArt\HomeWork3\HomeWork3Common\bin\Debug\NLog.xml
